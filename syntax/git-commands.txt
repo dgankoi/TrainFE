@@ -1,0 +1,7 @@
+init
+add
+commit
+status
+log --patch 
+checkout -m -a
+branch 
